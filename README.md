@@ -3,7 +3,7 @@
 **`Tech Enthusiast (Developer/Art/Maths)`**
 
 Hey :blush: I'm a computer science undergraduate major student from Ethiopia, currently based in the US. I aspire to be a software engineer!
----
+
 
 ### 🧰 Languages and Tools
 
