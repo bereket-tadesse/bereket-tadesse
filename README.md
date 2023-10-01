@@ -16,7 +16,7 @@ Hey :blush: I'm a sophomore computer science and Mathematics major student at Ca
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" />
 <br />
 <a>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 
 
