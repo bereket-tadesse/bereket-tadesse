@@ -18,6 +18,7 @@ Hey :blush: I'm a sophomore computer science and Mathematics major student at Ca
 </n>
 <a>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+LinkedIn
 </a>
 
 
