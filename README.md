@@ -1,4 +1,4 @@
-z# :bowling: Bereket Mehari Tadesse
+ :bowling: Bereket Mehari Tadesse
 
 **`Tech Enthusiast (Developer/Art/Maths)`**
 
