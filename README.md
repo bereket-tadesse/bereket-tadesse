@@ -4,7 +4,6 @@
 
 Hey :blush: I'm a sophomore computer science and Mathematics major student at Case Western Reserve University. I always like to work on anything related to computers. I aspire to be a software engineer!!
 
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
