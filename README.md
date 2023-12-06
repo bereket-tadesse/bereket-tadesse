@@ -2,7 +2,7 @@
 
 **`Tech Enthusiast (Developer/Art/Maths)`**
 
-Hey :blush: I'm a sophomore computer science Major student at Case Western Reserve University. I always like to work on anything related to computers. I aspire to be a software engineer!!
+Hey :blush: I'm a sophomore computer science Major student at Case Western Reserve University. I aspire to be a software engineer.
 
 ### 🧰 Languages and Tools
 
