@@ -16,7 +16,7 @@ Hey :blush:  I'm a sophomore computer science Major student at Case Western Rese
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg" />
 
 <br />
-</n>
+</n>  
 
 <br>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
