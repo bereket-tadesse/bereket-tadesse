@@ -2,7 +2,7 @@
 
 **`Tech Enthusiast (Developer/Art/Maths)`**
 
- sophomore computer science Major student at Case Western Reserve University. I aspire to be a software engineer.
+ Sophomore computer science Major student at Case Western Reserve University. I aspire to be a software engineer.
 
 ### 🧰 Languages and Tools
 
