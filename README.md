@@ -1,8 +1,8 @@
  :bowling: Bereket Mehari Tadesse
 
-**`Tech Enthusiast (Developer/Art/Maths)`**
+**`(Programming/Art/Maths)`**
 
-😊 Sophomore computer science Major student at Case Western Reserve University. I aspire to be a software engineer.
+Sophomore computer science Major student at Case Western Reserve University. I aspire to be a software engineer!
 
 ### 🧰 Languages and Tools
 
