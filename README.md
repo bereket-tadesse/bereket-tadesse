@@ -22,6 +22,6 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 <a href = "https://linkedin.com/in/bereket-tadesse">LinkedIn</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibereket-tadesse=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?bereket-tadesse=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
