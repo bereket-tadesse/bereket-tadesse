@@ -2,6 +2,7 @@
 
 **`(Programming/Art/Maths)`**
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 - Hi, I am a Sophomore computer science Major at Case Western Reserve University. I aspire to be a software engineer:)
 
 ### 🧰 Languages and Tools
