@@ -3,7 +3,7 @@
 **`(Programming/Art/Maths)`**
 
 ![](https://komarev.com/ghpvc/?username=bereket-tadesse)
-- Hi, I am a Sophomore computer science Major at Case Western Reserve University. I aspire to be a software engineer:) I love Cats ( I made cat game for them I hope some day i will be able to train them how to play it)
+- Hi, I am a Sophomore computer science Major at Case Western Reserve University. I aspire to be a software engineer:) I love Cats.
 - Currently working on automation of Latex to pdf to Zotero using Bitbucket pipeline (CI/CD)
 ### 🧰 Languages and Tools
 
