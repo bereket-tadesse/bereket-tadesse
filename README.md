@@ -1,4 +1,4 @@
- :bowling: Bereket Mehari Tadesse
+ :bowling: Bereket Tadesse
 
 **`(Programming/Art/Maths)`**
 
