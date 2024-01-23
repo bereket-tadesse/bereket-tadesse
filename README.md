@@ -2,6 +2,8 @@
 
 **`(Programming/Art/Maths)`**
 
+Proud Ethiopian!
+
 ![](https://komarev.com/ghpvc/?username=bereket-tadesse)
 - I am a Sophomore computer science Major at Case Western Reserve University. I aspire to be a software engineer. 
 - Currently working on automation of Latex to pdf to Zotero using Zotero API and Bitbucket pipeline (CI/CD)
