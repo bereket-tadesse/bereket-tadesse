@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bereket-tadesse)
 - I am a Sophomore computer science Major at Case Western Reserve University.
-- Currently working on automation of Latex to pdf to Zotero using Zotero API and Bitbucket pipeline (CI/CD)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
