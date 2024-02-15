@@ -1,7 +1,6 @@
  :bowling: Bereket Tadesse
 
 
-![](https://komarev.com/ghpvc/?username=bereket-tadesse)
 - I am a Sophomore computer science Major at Case Western Reserve University.
 
 ### 🧰 Languages and Tools
