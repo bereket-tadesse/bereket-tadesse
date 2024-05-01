@@ -3,6 +3,8 @@
 
 - I am a Mechanical Engineering Major at Case Western Reserve University. This is my GitHub profile for some of my CS related works :)
 
+Youtube: https://www.youtube.com/@bereketmehari4419
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
