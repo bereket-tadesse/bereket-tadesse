@@ -1,7 +1,7 @@
  :bowling: Bereket Tadesse
 
 
-- I am a Sophomore computer science Major at Case Western Reserve University.
+- I am a Mechanical Engineering Major at Case Western Reserve University. This is my GitHub profile for some of my CS related works :)
 
 ### 🧰 Languages and Tools
 
