@@ -1,7 +1,8 @@
  :bowling: Bereket Tadesse
 
 
-- I am a student at Case Western Reserve University. This is my GitHub profile for some of my CS related works :)
+- I am a student at Case Western Reserve University. This is my GitHub profile for some of my CS related works:)
+- also check out: @cooks.bk on ig if you like cooking.
 
 Youtube: https://www.youtube.com/@bereketmehari4419
 
